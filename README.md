@@ -38,6 +38,14 @@ I build products end to end: firmware to cloud to the pitch. Founder of **ALEROQ
 
 <img src="assets/stack.png" width="100%" alt="Languages: Python, C and C++, C Sharp, Java, JavaScript, Dart, SQL, HTML and CSS. Frameworks and backend: Flutter, React, Node.js, ASP.NET, WCF, FastAPI, Flask, Firebase, PostgreSQL, REST APIs. AI and data: Claude API, OpenAI, Gemini API, Hugging Face, NumPy, Pandas, OpenCV, n8n. Hardware and tools: ESP32 and Arduino, Docker, GitHub Actions, Git, Figma, UI and UX, MATLAB" />
 
+<img src="assets/l-beyond.png" height="24" alt="Beyond the work" />
+
+- Raised in Hyderabad, building in Tempe.
+- I learn by deriving things from scratch; memorization never stuck.
+- I would rather hear a hard truth than a comfortable one, and I build the same way.
+- Off the clock: at the gym, or soldering something that voids a warranty.
+- Ask me about teaching a car to explain its own fault codes, getting TripoSG to run on ROCm, or why I filed a patent before my degree.
+
 <img src="assets/divider.png" width="100%" alt="" />
 
 <img src="assets/l-contact.png" height="24" alt="Contact" />
@@ -48,7 +56,7 @@ I build products end to end: firmware to cloud to the pitch. Founder of **ALEROQ
 </p>
 
 <p align="center">
-  <sub>Designed, not templated &nbsp;·&nbsp; Tempe, AZ &nbsp;·&nbsp; 33.4255° N, 111.9400° W</sub>
+  <sub>Designed, not templated &nbsp;·&nbsp; Hyderabad &#8594; Tempe &nbsp;·&nbsp; 33.4255° N, 111.9400° W</sub>
 </p>
 
 <!-- Reading the raw markdown? Good instinct. bjagarla@asu.edu -->
