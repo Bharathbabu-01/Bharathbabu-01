@@ -43,7 +43,7 @@ I build products end to end: firmware to cloud to the pitch. Founder of **ALEROQ
 - Raised in Hyderabad, building in Tempe.
 - I learn by deriving things from scratch; memorization never stuck.
 - I would rather hear a hard truth than a comfortable one, and I build the same way.
-- Off the clock: at the gym, or soldering something that voids a warranty.
+- Off the clock: Watching movies, or soldering something that voids a warranty.
 - Ask me about teaching a car to explain its own fault codes, getting TripoSG to run on ROCm, or why I filed a patent before my degree.
 
 <img src="assets/divider.png" width="100%" alt="" />
