@@ -23,20 +23,20 @@ I build products end to end: firmware to cloud to the pitch. Founder of **ALEROQ
 
 | Project | The work | Stack | Where |
 |---|---|---|---|
-| **ALEROQ Auto** | AI vehicle diagnostics and emergency roadside dispatch. Event-driven Firebase backend, custom BLE GATT layer speaking ELM327, Claude fault analysis in under 2 seconds. | Flutter · Firebase · Claude API | [`aleroq.com`](https://aleroq.com) · patent pending |
-| **SpatialForge 3D** | Image and text to 3D on AMD ROCm. Ported a CUDA-only dependency to a CPU marching-cubes path; 2.8s end to end, zero failures across 14 benchmarked assets. | Python · PyTorch · ROCm | AMD AI DevMaster Hackathon |
-| **PRDForge** | Five-agent LangGraph swarm compiling natural-language PRDs into validated RFCs, Firestore schema plans and analyzer-clean Dart. 115 fully offline tests. | LangGraph · Anthropic API · Pydantic | Private build · ask me |
+| **ALEROQ Auto** | AI vehicle diagnostics and emergency roadside dispatch. Event-driven Firebase backend, custom BLE GATT layer speaking ELM327, Claude fault analysis in under 2 seconds. | Flutter · Firebase · Node.js · BLE · Claude API | [`aleroq.com`](https://aleroq.com) · patent pending |
+| **SpatialForge 3D** | Image and text to 3D on AMD ROCm. Ported a CUDA-only dependency to a CPU marching-cubes path; 2.8s end to end, zero failures across 14 benchmarked assets. | Python · PyTorch · ROCm · NumPy · Gradio | AMD AI DevMaster Hackathon |
+| **PRDForge** | Five-agent LangGraph swarm compiling natural-language PRDs into validated RFCs, Firestore schema plans and analyzer-clean Dart. 115 fully offline tests. | LangGraph · Claude API · Pydantic · Dart | Private build · ask me |
 | **vmd** | Vectorized Markdown rendering engine, built as a Rust CLI. | Rust | crates.io release in progress |
-| **SmartLedger** | AI transaction categorizer benchmarked against a rule engine, with confidence scores and reasoning stored per transaction. | FastAPI · PostgreSQL · React | [`repo`](https://github.com/Bharathbabu-01/smartledger) |
-| **ParkUp** | Smart parking hardware: ESP32 nodes with LiDAR, NFC and LoRa streaming live space data to Firestore. Solo build, sensor to app. | ESP32 · Flutter · Firestore | [`db build`](https://github.com/Bharathbabu-01/cse412-database-project) |
-| **Systems work** | Linux kernel dm-cache LRU replacement, producer-consumer kernel threads with semaphores, page-table walker with swap handling, compiler IR generation. | C · C++ | [`dm-cache`](https://github.com/Bharathbabu-01/dm-cache-lru) · [`kthreads`](https://github.com/Bharathbabu-01/linux-kernel-zombie-producer-consumer) · [`vmem`](https://github.com/Bharathbabu-01/linux-virtual-memory-translator) · [`compiler`](https://github.com/Bharathbabu-01/tiny-compiler-ir) |
-| **Distributed services** | WCF and REST services in C#, plus a multi-page ASP.NET app with role-based auth deployed to WebStrar. | C# · ASP.NET | [`services`](https://github.com/Bharathbabu-01/cse445a4) · [`ClubHub`](https://github.com/Bharathbabu-01/Club-Hub) |
+| **SmartLedger** | AI transaction categorizer benchmarked against a rule engine, with confidence scores and reasoning stored per transaction. | FastAPI · PostgreSQL · React · OpenAI · Docker | [`repo`](https://github.com/Bharathbabu-01/smartledger) |
+| **ParkUp** | Smart parking hardware: ESP32 nodes with LiDAR, NFC and LoRa streaming live space data to Firestore. Solo build, sensor to app. | ESP32 · LoRa · Flutter · Firestore | [`db build`](https://github.com/Bharathbabu-01/cse412-database-project) |
+| **Systems work** | Linux kernel dm-cache LRU replacement, producer-consumer kernel threads with semaphores, page-table walker with swap handling, compiler IR generation. | C · C++ · Linux kernel | [`dm-cache`](https://github.com/Bharathbabu-01/dm-cache-lru) · [`kthreads`](https://github.com/Bharathbabu-01/linux-kernel-zombie-producer-consumer) · [`vmem`](https://github.com/Bharathbabu-01/linux-virtual-memory-translator) · [`compiler`](https://github.com/Bharathbabu-01/tiny-compiler-ir) |
+| **Distributed services** | WCF and REST services in C#, plus a multi-page ASP.NET app with role-based auth deployed to WebStrar. | C# · WCF · REST · ASP.NET | [`services`](https://github.com/Bharathbabu-01/cse445a4) · [`ClubHub`](https://github.com/Bharathbabu-01/Club-Hub) |
 
 <img src="assets/metrics.png" width="100%" alt="Patent pending at USPTO · 115 offline tests in PRDForge · 2.8 second image-to-3D pipeline · ALEROQ LLC founded 2026" />
 
 <img src="assets/l-stack.png" height="24" alt="Stack" />
 
-<img src="assets/stack.png" width="100%" alt="Python, C and C++, C Sharp, Java, JavaScript, Dart, SQL, Rust · Flutter, React, FastAPI, Firebase, PostgreSQL, Docker, Claude API, ESP32 and BLE" />
+<img src="assets/stack.png" width="100%" alt="Languages: Python, C and C++, C Sharp, Java, JavaScript, Dart, SQL, HTML and CSS. Frameworks and backend: Flutter, React, Node.js, ASP.NET, WCF, FastAPI, Flask, Firebase, PostgreSQL, REST APIs. AI and data: Claude API, OpenAI, Gemini API, Hugging Face, NumPy, Pandas, OpenCV, n8n. Hardware and tools: ESP32 and Arduino, Docker, GitHub Actions, Git, Figma, UI and UX, MATLAB" />
 
 <img src="assets/divider.png" width="100%" alt="" />
 
