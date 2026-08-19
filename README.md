@@ -1,4 +1,4 @@
-<img src="assets/header.png" width="100%" alt="Bharath Babu Jagarlamudi · Software Engineer and Founder" />
+<img src="assets/header.png" width="100%" alt="Portrait of Bharath Babu Jagarlamudi · Software Engineer and Founder" />
 
 <p align="center">
   <a href="https://aleroq.com"><img src="assets/p-aleroq.png" height="42" alt="ALEROQ" /></a>&nbsp;&nbsp;
@@ -9,13 +9,13 @@
   -->
 </p>
 
-I build products end to end: firmware to cloud to the pitch. Founder of **ALEROQ**, where AI reads your car's fault codes and dispatches help before you finish pulling over. B.S. Computer Science at Arizona State, 2027. U.S. work authorized, no sponsorship required.
+I build products end to end: firmware to cloud to the pitch. Founder of **ALEROQ**, launching soon. B.S. Computer Science at Arizona State, 2027. U.S. work authorized, no sponsorship required.
 
 <img src="assets/divider.png" width="100%" alt="" />
 
 <img src="assets/l-now.png" height="24" alt="Now" />
 
-- Building **ALEROQ Auto**: BLE OBD2 diagnostics, Claude-powered fault analysis, emergency SOS dispatch. Patent pending.
+- **ALEROQ**, quietly in the works. Patent pending.
 - Grader, Entrepreneurship &amp; Innovation · ASU Fulton
 - Senior capstone · CSE 485
 
@@ -23,7 +23,7 @@ I build products end to end: firmware to cloud to the pitch. Founder of **ALEROQ
 
 | Project | The work | Stack | Where |
 |---|---|---|---|
-| **ALEROQ Auto** | AI vehicle diagnostics and emergency roadside dispatch. Event-driven Firebase backend, custom BLE GATT layer speaking ELM327, Claude fault analysis in under 2 seconds. | Flutter · Firebase · Node.js · BLE · Claude API | [`aleroq.com`](https://aleroq.com) · patent pending |
+| **ALEROQ** | AI vehicle diagnostics, incorporated rather than left as a side project. The interesting parts stay quiet until launch; the waitlist is open. | Flutter · Firebase · Claude API | [`aleroq.com`](https://aleroq.com) · patent pending |
 | **SpatialForge 3D** | Image and text to 3D on AMD ROCm. Ported a CUDA-only dependency to a CPU marching-cubes path; 2.8s end to end, zero failures across 14 benchmarked assets. | Python · PyTorch · ROCm · NumPy · Gradio | AMD AI DevMaster Hackathon |
 | **PRDForge** | Five-agent LangGraph swarm compiling natural-language PRDs into validated RFCs, Firestore schema plans and analyzer-clean Dart. 115 fully offline tests. | LangGraph · Claude API · Pydantic · Dart | Private build · ask me |
 | **vmd** | Vectorized Markdown rendering engine, built as a Rust CLI. | Rust | crates.io release in progress |
@@ -43,7 +43,7 @@ I build products end to end: firmware to cloud to the pitch. Founder of **ALEROQ
 - Raised in Hyderabad, building in Tempe.
 - I learn by deriving things from scratch; memorization never stuck.
 - I would rather hear a hard truth than a comfortable one, and I build the same way.
-- Off the clock: Curious about geopolitics, or soldering something that voids a warranty.
+- Off the clock: curious about geopolitics, or soldering something that voids a warranty.
 - Ask me about teaching a car to explain its own fault codes, getting TripoSG to run on ROCm, or why I filed a patent before my degree.
 
 <img src="assets/divider.png" width="100%" alt="" />
@@ -56,7 +56,7 @@ I build products end to end: firmware to cloud to the pitch. Founder of **ALEROQ
 </p>
 
 <p align="center">
-  <sub>Designed, not templated &nbsp;·&nbsp; Hyderabad &#8594; Tempe &nbsp;·&nbsp; 33.4255° N, 111.9400° W</sub>
+  <sub>Hyderabad &#8594; Tempe &nbsp;·&nbsp; 33.4255° N, 111.9400° W</sub>
 </p>
 
 <!-- Reading the raw markdown? Good instinct. bjagarla@asu.edu -->
